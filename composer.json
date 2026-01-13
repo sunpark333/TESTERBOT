@@ -1,3 +1,0 @@
-git rm composer.json
-git commit -m "Remove composer.json"
-git push origin main
